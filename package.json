@@ -1,0 +1,16 @@
+{
+  "name": "nss-mocha",
+  "version": "0.0.0",
+  "description": "NSS Mocha Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive spec"
+  },
+  "author": "Scott <scott@sscotth.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  }
+}

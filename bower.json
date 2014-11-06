@@ -1,0 +1,18 @@
+{
+  "name": "nss-mocha",
+  "private": true,
+  "dependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  },
+  "version": "0.0.0",
+  "author": "Scott <scott@sscotth.io>",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
